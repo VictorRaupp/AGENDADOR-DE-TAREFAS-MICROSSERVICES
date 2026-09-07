@@ -1,5 +1,3 @@
-# AGENDADOR-DE-TAREFAS-MICROSSERVICES
-=======
 # 🚀 Sistema de Agendamento - Arquitetura de Microsserviços
 
 Projeto desenvolvido com o objetivo de estudar e aplicar conceitos de **arquitetura de microsserviços**, desenvolvimento de APIs REST, comunicação entre serviços, autenticação e persistência de dados utilizando diferentes bancos de dados.
@@ -47,4 +45,3 @@ A aplicação é composta pelos seguintes serviços:
         │   PostgreSQL   │ │    MongoDB     │
         └────────────────┘ └────────────────┘
 ```
-
